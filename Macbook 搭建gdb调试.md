@@ -28,11 +28,11 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 ##### 1.创建证书
 
-![image-20180505091756728](/Users/luozhengcheng/Work/knowledge/image-20180505091756728.png)
+![image-20180505091756728](res/macbook_gdb_6.png)
 
 填写如下信息：
 
-![image-20180505092409250](/Users/luozhengcheng/Work/knowledge/image-20180505092409250.png)
+![image-20180505092409250](res/macbook_gdb_5.png)
 
 
 
@@ -40,11 +40,11 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 ##### 3. 指定有限期（本人测试有效天数最大可以设置为7300）
 
-![image-20180505092609649](/Users/luozhengcheng/Work/knowledge/image-20180505092609649.png)
+![image-20180505092609649](res/macbook_gdb_4.png)
 
 ##### 4. 其他的都选择默认，最后创建完成
 
-![image-20180505093936071](res/image-20180505093936071.png)
+![image-20180505093936071](res/macbook_gdb_2.png)
 
 ##### 5. 将证书从登录（login）钥匙串移动到系统钥匙串
 
@@ -56,7 +56,7 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 在系统钥匙串里找到gdb-cert证书，双击，并展开信任。
 
-![image-20180505103730914](/Users/luozhengcheng/Work/knowledge/image-20180505103730914.png)
+![image-20180505103730914](res/macbook_gdb_1.png)
 
 
 
