@@ -22,7 +22,7 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 这是由于Mac os的安全机制阻止了我们的gdb对要调试的程序进行完全控制，对此我们要对gdb赋予合适的权限，首先我们要在keychain access里面添加相应的keychain (钥匙串)
 
-![image-20180505091601589](./res/image-20180505091601589.png)
+![image-20180505091601589](res/macbook_gdb_7.png)
 
 
 
