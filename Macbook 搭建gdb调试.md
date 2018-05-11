@@ -12,7 +12,7 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 安装 gdb8.0.1, 本人测试最新版gdb 8.1， 后续运行时会报错。
 
-[[gdb doesn't work on macos High Sierra 10.13.3](https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3)](https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3)
+[[gdb doesn't work on macos High Sierra 10.13.3][https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3)](https://stackoverflow.com/questions/49001329/gdb-doesnt-work-on-macos-high-sierra-10-13-3]
 
 安装完成后执行命令：
 
