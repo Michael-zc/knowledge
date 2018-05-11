@@ -44,7 +44,7 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/9ec9fb27a3
 
 ##### 4. 其他的都选择默认，最后创建完成
 
-![image-20180505093936071](/Users/luozhengcheng/Work/knowledge/image-20180505093936071.png)
+![image-20180505093936071](res/image-20180505093936071.png)
 
 ##### 5. 将证书从登录（login）钥匙串移动到系统钥匙串
 
